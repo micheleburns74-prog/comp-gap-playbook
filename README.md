@@ -115,6 +115,8 @@ Use only published or reported data you are allowed to share.
 - Employee-reported pay sites (small samples, label them as such)
 - Pay transparency rules for your market, since ranges may already have to be disclosed
 
+![Wrapping it up: four steps for closing a compensation gap](images/05-wrap-up.svg)
+
 ## How to reuse this
 
 1. Copy the structure.
