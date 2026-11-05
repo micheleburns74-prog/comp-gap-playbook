@@ -6,6 +6,12 @@ A case study and template for when the job description asks for a specialist and
 
 ![Preview: illustrative pay band versus what a matching candidate expects](images/preview.svg)
 
+![Why this job costs more: each requirement and what it does to the pool](images/02-requirements-cost.svg)
+
+![Where we can hire from: three employer tiers](images/03-competitor-tiers.svg)
+
+![The decision: three options with trade-offs](images/04-decision-options.svg)
+
 > **All figures, roles and companies below are illustrative.** Nothing here comes from a real employer or candidate. Swap in your own market data using the sources listed at the end.
 
 ---
