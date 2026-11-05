@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1650" height="1120" viewBox="0 0 1650 1120" font-family="Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title>Each job description requirement and what it does to the candidate pool</title>
+  <rect width="1650" height="1120" fill="#f4f7f9"/>
+  <rect x="60" y="0" width="1530" height="1120" fill="#ffffff"/>
+  <text x="120" y="110" font-size="56" font-weight="700" fill="#13293d">Why this job costs more</text>
+  <rect x="120" y="136" width="1410" height="3" fill="#13293d"/>
+  <text x="120" y="196" font-size="27" fill="#13293d">Each requirement in the job description narrows the pool and raises the price.</text>
+  <text x="120" y="290" font-size="22" font-weight="700" fill="#1b7a8c" letter-spacing="1.5">THE JOB DESCRIPTION ASKS FOR</text>
+  <text x="800" y="290" font-size="22" font-weight="700" fill="#1b7a8c" letter-spacing="1.5">WHAT IT DOES TO THE POOL</text>
+  <rect x="120" y="306" width="1410" height="2" fill="#13293d"/>
+  <text x="150" y="368" font-size="26" font-weight="600" fill="#13293d">5+ years in the power industry</text>
+  <text x="800" y="368" font-size="25" fill="#13293d">Rules out most general industrial sales engineers</text>
+  <rect x="120" y="408" width="1410" height="1" fill="#e3e9ee"/>
+  <rect x="120" y="422" width="1410" height="86" fill="#eef6f8"/>
+  <rect x="120" y="422" width="8" height="86" fill="#c2603a"/>
+  <text x="150" y="468" font-size="26" font-weight="600" fill="#13293d">Proven storage, solar or generation experience</text>
+  <text x="800" y="468" font-size="25" fill="#13293d">Small, heavily recruited pool. Usually the priciest line</text>
+  <rect x="120" y="508" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="150" y="568" font-size="26" font-weight="600" fill="#13293d">Leads technical contract negotiation</text>
+  <text x="800" y="568" font-size="25" fill="#13293d">Bid-lead and key account work, not sales support</text>
+  <rect x="120" y="608" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="150" y="668" font-size="26" font-weight="600" fill="#13293d">Local codes and grid connection rules</text>
+  <text x="800" y="668" font-size="25" fill="#13293d">Often the scarcest skill in the market</text>
+  <rect x="120" y="708" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="150" y="768" font-size="26" font-weight="600" fill="#13293d">Regional travel</text>
+  <text x="800" y="768" font-size="25" fill="#13293d">Points to large international employers</text>
+  <rect x="120" y="808" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="150" y="868" font-size="26" font-weight="600" fill="#13293d">Modelling, CRM and CAD in one person</text>
+  <text x="800" y="868" font-size="25" fill="#13293d">Most firms split this across two roles</text>
+  <rect x="120" y="908" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="150" y="968" font-size="26" font-weight="600" fill="#13293d">Fluent English</text>
+  <text x="800" y="968" font-size="25" fill="#13293d">Narrows the pool to people working in English daily</text>
+  <rect x="120" y="1008" width="1410" height="1" fill="#e3e9ee"/>
+  <text x="120" y="1050" font-size="26" font-weight="700" fill="#1b7a8c">Specialist job description, generalist pay range.</text>
+  <text x="120" y="1088" font-size="21" fill="#5b6b7a">All figures and roles are illustrative. No employer or candidate data.</text>
+</svg>
